@@ -3,7 +3,7 @@
 
 import os, csv, re, nltk
 from nltk.stem.snowball import SnowballStemmer # il est disponible en de nobmreuses langues
-
+nltk.download('punkt')
 
 #####################################################
 ####################################################
@@ -99,7 +99,7 @@ def RegexFromTerm(term, stemmer):
 TsvFile = "eurovoc.tsv"
 
 EurovocDic, EurovocReverseDic, URIList, ConceptList = TsvDicProcessing(TsvFile)
-
+print(EurovocReverseDic)
 print('Eurovoc importated!')
 
 #=====================

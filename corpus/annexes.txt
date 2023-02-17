@@ -1,0 +1,523 @@
+ANNEX
+
+UAS OPERATIONS IN THE ‘OPEN’ AND ‘SPECIFIC’ CATEGORIES
+
+PART A
+
+UAS OPERATIONS IN THE ‘OPEN’ CATEGORY
+
+UAS.OPEN.010 General provisions
+
+(1)	The category of UAS ‘open’ operations is divided into three subcategories A1, A2 and A3, on the basis of operational limitations, requirements for the remote pilot and technical requirements for UAS.
+
+(2)	Where the UAS operation involves the flight of the unmanned aircraft starting from a natural elevation in the terrain or over terrain with natural elevations, the unmanned aircraft shall be maintained within 120 metres from the closest point of the surface of the earth. The measurement of distances shall be adapted accordingly to the geographical characteristics of the terrain, such as plains, hills, mountains.
+
+(3)	When flying an unmanned aircraft within a horizontal distance of 50 metres from an artificial obstacle taller than 105 metres, the maximum height of the UAS operation may be increased up to 15 metres above the height of the obstacle at the request of the entity responsible for the obstacle.
+
+(4)	By way of derogation from point (2), unmanned sailplanes with a MTOM, including payload, of less than 10 kg, may be flown at a distance in excess of 120 metres from the closest point of the surface of the earth, provided that the unmanned sailplane is not flown at a height greater than 120 metres above the remote pilot at any time.
+
+UAS.OPEN.020 UAS operations in subcategory A1
+
+UAS operations in subcategory A1 shall comply with all of the following conditions:
+
+(1)	for unmanned aircraft referred to in point (5)(d), be conducted in such a way that a remote pilot of the unmanned aircraft does not overfly assemblies of people and reasonably expects that no uninvolved person will be overflown. In the event of unexpected overflight of uninvolved persons, the remote pilot shall reduce as much as possible the time during which the unmanned aircraft overflies those persons;
+
+(2)	in the case of an unmanned aircraft referred to in points (5)(a), (5)(b) and (5)(c), be conducted in such a way that the remote pilot of the unmanned aircraft may overfly uninvolved persons but shall never overfly assemblies of people;
+
+(3)	by way of derogation from point (d) of paragraph 1 of Article 4, be conducted, when the follow-me mode is active, up to a distance of 50 metres from the remote pilot;
+
+(4)	be performed by a remote pilot:
+
+(a)	familiarised with the user's manual provided by the manufacturer of the UAS;
+
+(b)	in the case of an unmanned aircraft class C1, as defined in Part 2 of the Annex to Delegated Regulation (EU) 2019/945, who has completed an online training course followed by completing successfully an online theoretical knowledge examination provided by the competent authority or by an entity recognised by the competent authority of the Member State of registration of the UAS operator. The examination shall comprise 40 multiple-choice questions distributed appropriately across the following subjects:
+
+i.	air safety;
+
+ii.	airspace restrictions;
+
+iii.	aviation regulation;
+
+iv.	human performance limitations;
+
+v.	operational procedures;
+
+vi.	UAS general knowledge;
+
+vii.	privacy and data protection;
+
+viii.	insurance;
+
+ix.	security.
+
+(5)	be performed with an unmanned aircraft that:
+
+(a)	has an MTOM, including payload, of less than 250 g and a maximum operating speed of less than 19 m/s, in the case of a privately built UAS; or
+
+(b)	meets the requirements defined in point (a) of Article 20;
+
+(c)	is marked as class C0 and complies with the requirements of that class, as defined in Part 1 of the Annex to Delegated Regulation (EU) 2019/945; or
+
+(d)	is marked as class C1 and complies with the requirements of that class, as defined in Part 2 of the Annex to Delegated Regulation (EU) 2019/945 and is operated with active and updated direct remote identification and geo-awareness systems.
+
+UAS.OPEN.030 UAS operations in subcategory A2
+
+UAS operations in subcategory A2 shall comply with all of the following conditions:
+
+(1)	be conducted in such a way that the unmanned aircraft does not overfly uninvolved persons and the UAS operations take place at a safe horizontal distance of at least 30 metres from them; the remote pilot may reduce the horizontal safety distance down to a minimum of 5 metres from uninvolved persons when operating an unmanned aircraft with an active low speed mode function and after evaluation of the situation regarding:
+
+(a)	weather conditions,
+
+(b)	performance of the unmanned aircraft,
+
+(c)	segregation of the overflown area.
+
+(2)	be performed by a remote pilot who is familiar with the user's manual provided by the manufacturer of the UAS and holds a certificate of remote pilot competency issued by the competent authority or by an entity recognised by the competent authority of the Member State of registration of the UAS operator. This certificate shall be obtained after complying with all of the following conditions and in the order indicated:
+
+(a)	completing an online training course and passed the online theoretical knowledge examination as referred to in point (4)(b) of point UAS.OPEN.020;
+
+(b)	completing a self-practical training in the operating conditions of the subcategory A3 set out in points (1) and (2) of point UAS.OPEN.040;
+
+(c)	declaring the completion of the self-practical training defined in point (b) and passing an additional theoretical knowledge examination provided by the competent authority or by an entity recognised by the competent authority of the Member State of registration of the UAS operator. The examination shall comprise at least 30 multiple-choice questions aimed at assessing the remote pilot's knowledge of the technical and operational mitigations for ground risk, distributed appropriately across the following subjects:
+
+i.	meteorology;
+
+ii.	UAS flight performance;
+
+iii.	technical and operational mitigations for ground risk.
+
+(3)	be performed with an unmanned aircraft which is marked as class C2 and complies with the requirements of that class, as defined in Part 3 of the Annex to Delegated Regulation (EU) 2019/945, and is operated with active and updated direct remote identification and geo-awareness systems.
+
+UAS.OPEN.040 UAS operations in subcategory A3
+
+UAS operations in subcategory A3 shall comply with all of the following conditions:
+
+(1)	be conducted in an area where the remote pilot reasonably expects that no uninvolved person will be endangered within the range where the unmanned aircraft is flown during the entire time of the UAS operation;
+
+(2)	be conducted at a safe horizontal distance of at least 150 metres from residential, commercial, industrial or recreational areas;
+
+(3)	be performed by a remote pilot who has completed an online training course and passed an online theoretical knowledge examination as defined in point (4)(b) of point UAS.OPEN.020;
+
+(4)	be performed with an unmanned aircraft that:
+
+(a)	has an MTOM, including payload, of less than 25 kg, in the case of a privately built UAS, or
+
+(b)	meets the requirements defined in point (b) of Article 20;
+
+(c)	is marked as class C2 and complies with the requirements of that class, as defined in Part 3 of the Annex to Delegated Regulation (EU) 2019/945 and is operated with active and updated direct remote identification and geo-awareness systems or;
+
+(d)	is marked as class C3 and complies with the requirements of that class, as defined in Part 4 of the Annex to Delegated Regulation (EU) 2019/945 and is operated with active and updated direct remote identification and geo-awareness systems; or
+
+(e)	is marked as class C4 and complies with the requirements of that class, as defined in Part 5 of the Annex to Delegated Regulation (EU) 2019/945.
+
+UAS.OPEN.050 Responsibilities of the UAS operator
+
+The UAS operator shall comply with all of the following:
+
+(1)	develop operational procedures adapted to the type of operation and the risk involved;
+
+(2)	ensure that all operations effectively use and support the efficient use of radio spectrum in order to avoid harmful interference;
+
+(3)	designate a remote pilot for each UAS operation;
+
+(4)	ensure that the remote pilots and all other personnel performing a task in support of the operations are familiar with the user's manual provided by the manufacturer of the UAS, and:
+
+(a)	have appropriate competency in the subcategory of the intended UAS operations in accordance with points UAS.OPEN.020, UAS.OPEN.030 or UAS.OPEN.040 to perform their tasks or, for personnel other than the remote pilot, have completed an on-the-job-training course developed by the operator;
+
+(b)	are fully familiar with the UAS operator's procedures;
+
+(c)	are provided with the information relevant to the intended UAS operation concerning any geographical zones published by the Member State of operation in accordance with Article 15;
+
+(5)	update the information into the geo-awareness system when applicable according to the intended location of operation;
+
+(6)	in the case of an operation with an unmanned aircraft of one of the classes defined in Parts 1 to 5 of Delegated Regulation (EU) 2019/945, ensure that the UAS is:
+
+(a)	accompanied by the corresponding EU declaration of conformity, including the reference to the appropriate class; and
+
+(b)	the related class identification label is affixed to the unmanned aircraft.
+
+(7)	Ensure in the case of an UAS operation in subcategory A2 or A3, that all involved persons present in the area of the operation have been informed of the risks and have explicitly agreed to participate.
+
+UAS.OPEN.060 Responsibilities of the remote pilot
+
+(1)	Before starting an UAS operation, the remote pilot shall:
+
+(a)	have the appropriate competency in the subcategory of the intended UAS operations in accordance with points UAS.OPEN.020, UAS.OPEN.030 or UAS.OPEN.040 to perform its task and carry a proof of competency while operating the UAS, except when operating an unmanned aircraft referred to in points (5)(a), (5)(b) or (5)(c) of point UAS.OPEN.020;
+
+(b)	obtain updated information relevant to the intended UAS operation about any geographical zones published by the Member State of operation in accordance with Article 15;
+
+(c)	observe the operating environment, check the presence of obstacles and, unless operating in subcategory A1 with an unmanned aircraft referred to in points (5)(a), (5)(b) or (5)(c) of point UAS.OPEN.020, check the presence of any uninvolved person;
+
+(d)	ensure that the UAS is in a condition to safely complete the intended flight, and if applicable, check if the direct remote identification works properly;
+
+(e)	if the UAS is fitted with an additional payload, verify that its mass does not exceed the MTOM defined by the manufacturer or the MTOM limit of its class.
+
+(2)	During the flight, the remote pilot shall:
+
+(a)	not perform duties under the influence of psychoactive substances or alcohol or when it is unfit to perform its tasks due to injury, fatigue, medication, sickness or other causes;
+
+(b)	keep the unmanned aircraft in VLOS and maintain a thorough visual scan of the airspace surrounding the unmanned aircraft in order to avoid any risk of collision with any manned aircraft. The remote pilot shall discontinue the flight if the operation poses a risk to other aircraft, people, animals, environment or property;
+
+(c)	comply with the operational limitations in geographical zones defined in accordance with Article 15;
+
+(d)	have the ability to maintain control of the unmanned aircraft, except in the case of a lost link or when operating a free-flight unmanned aircraft;
+
+(e)	operate the UAS in accordance with the user's manual provided by the manufacturer, including any applicable limitations;
+
+(f)	comply with the operator's procedures when available.
+
+(3)	During the flight, remote pilots and UAS operators shall not fly close to or inside areas where an emergency response effort is ongoing unless they have permission to do so from the responsible emergency response services.
+
+(4)	For the purposes of point (2)(b), remote pilots may be assisted by an unmanned aircraft observer, situated alongside them, who, by unaided visual observation of the unmanned aircraft, assists the remote pilot in safely conducting the flight. Clear and effective communication shall be established between the remote pilot and the unmanned aircraft observer.
+
+UAS.OPEN.070 Duration and validity of the remote pilot online theoretical competency and certificates of remote pilot competency
+
+(1)	The remote pilot online theoretical competency, required by points (4)(b) of point UAS.OPEN.020 and point (3) of point UAS.OPEN.040, and the certificate of remote pilot competency, required by point (2) of point UAS.OPEN.030, shall be valid for five years.
+
+(2)	The renewal of the remote pilot online theoretical competency and of the certificate of remote pilot competency is subject to the demonstration of competencies in accordance with point (2) of point UAS.OPEN.030 or point (4)(b) of point UAS.OPEN.020.
+
+PART B
+
+UAS OPERATIONS IN THE ‘SPECIFIC’ CATEGORY
+
+UAS.SPEC.010 General provisions
+
+The UAS operator shall provide the competent authority with an operational risk assessment for the intended operation in accordance with Article 11, or submit a declaration when point UAS.SPEC.020 is applicable, unless the operator holds a light UAS operator certificate (LUC) with the appropriate privileges, in accordance with Part C of this Annex. The UAS operator shall regularly evaluate the adequacy of the mitigation measures taken and update them where necessary.
+
+UAS.SPEC.020 Operational declaration
+
+(1)	In accordance with Article 5, the UAS operator may submit an operational declaration of compliance with a standard scenario as defined in Appendix 1 to this Annex to the competent authority of the Member State of operation as an alternative to points UAS.SPEC.30 and UAS.SPEC.40 in relation to operations:
+
+(a)	of unmanned aircraft with:
+
+i.	maximum characteristic dimension up to 3 metres in VLOS over controlled ground area except over assemblies of people,
+
+ii.	maximum characteristic dimension up to 1 metre in VLOS except over assemblies of people;
+
+iii.	maximum characteristic dimension up to 1 metre in BVLOS over sparsely populated areas;
+
+iv.	maximum characteristic dimension up to 3 metres in BVLOS over controlled ground area.
+
+(b)	performed below 120 metres from the surface of earth, and:
+
+i.	in uncontrolled airspace (class F or G), or
+
+ii.	in controlled airspace after coordination and individual flight authorisation in accordance with published procedures for the area of operation.
+
+(2)	A declaration of UAS operators shall contain:
+
+(a)	administrative information about the UAS operator;
+
+(b)	a statement that the operation satisfies the operational requirement set out in point (1) and a standard scenario as defined in Appendix 1 to the Annex;
+
+(c)	the commitment of the UAS operator to comply with the relevant mitigation measures required for the safety of the operation, including the associated instructions for the operation, for the design of the unmanned aircraft and the competency of involved personnel.
+
+(d)	confirmation by the UAS operator that an appropriate insurance cover will be in place for every flight made under the declaration, if required by Union or national law.
+
+(3)	Upon receipt of the declaration, the competent authority shall verify that the declaration contains all the elements listed in point (2) and shall provide the UAS operator with a confirmation of receipt and completeness without undue delay.
+
+(4)	After receiving the confirmation of receipt and completeness, the UAS operator is entitled to start the operation.
+
+(5)	UAS operators shall notify, without any delay, the competent authority of any change to the information contained in the operational declaration that they submitted.
+
+(6)	UAS operators holding an LUC with appropriate privileges, in accordance with Part C of this Annex, are not required to submit the declaration.
+
+UAS.SPEC.030 Application for an operational authorisation
+
+(1)	Before starting an UAS operation in the ‘specific’ category the UAS operator shall obtain an operational authorisation from the national competent authority of the Member State of registration, except:
+
+(a)	when point UAS.SPEC.020 is applicable; or
+
+(b)	the UAS operator holds an LUC with the appropriate privileges, in accordance with Part C of this Annex.
+
+(2)	The UAS operator shall submit an application for an updated operational authorisation if there are any significant changes to the operation or to the mitigation measures listed in the operational authorisation.
+
+(3)	The application for an operational authorisation shall be based on the risk assessment referred to in Article 11 and shall include in addition the following information:
+
+(a)	the registration number of the UAS operator;
+
+(b)	the name of the accountable manager or the name of the UAS operator in the case of a natural person;
+
+(c)	the operational risk assessment;
+
+(d)	the list of mitigation measures proposed by the UAS operator, with sufficient information for the competent authority to assess the adequacy of the mitigation means to address the risks;
+
+(e)	an operations manual when required by the risk and complexity of the operation;
+
+(f)	a confirmation that an appropriate insurance cover will be in place at the start of the UAS operations, if required by Union or national law.
+
+UAS.SPEC.040 Issuing of an operational authorisation
+
+(1)	When receiving an application in accordance with point UAS.SPEC.030, the competent authority shall issue, without undue delay, an operational authorisation in accordance with Article 12 when it concludes that the operation meets the following conditions:
+
+(a)	all information in accordance with point (3) of point UAS.SPEC.030 is provided;
+
+(b)	a procedure is in place for coordination with the relevant service provider for the airspace if the entire operation, or part of it, is to be conducted in controlled airspace.
+
+(2)	The competent authority shall specify in the operational authorisation the exact scope of the authorisation in accordance with Article 12.
+
+UAS.SPEC.050 Responsibilities of the UAS operator
+
+(1)	The UAS operator shall comply with all of the following:
+
+(a)	establish procedures and limitations adapted to the type of the intended operation and the risk involved, including:
+
+i.	operational procedures to ensure the safety of the operations;
+
+ii.	procedures to ensure that security requirements applicable to the area of operations are complied with in the intended operation;
+
+iii.	measures to protect against unlawful interference and unauthorised access;
+
+iv.	procedures to ensure that all operations are in respect of Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data. In particular it shall carry out a data protection impact assessment, when required by the National Authority for data protection in application of Article 35 of Regulation (EU) 2016/679;
+
+v.	guidelines for its remote pilots to plan UAS operations in a manner that minimises nuisances, including noise and other emissions-related nuisances, to people and animals.
+
+(b)	designate a remote pilot for each operation or, in the case of autonomous operations, ensure that during all phases of the operation, responsibilities and tasks especially those defined in points (2) and (3) of point UAS.SPEC.060 are properly allocated in accordance with the procedures established pursuant to point (a) above;
+
+(c)	ensure that all operations effectively use and support the efficient use of radio spectrum in order to avoid harmful interference;
+
+(d)	ensure that before conducting operations, remote pilots comply with all of the following conditions:
+
+i.	have the competency to perform their tasks in line with the applicable training identified by the operational authorisation or, if point UAS.SPEC.020 applies, by the conditions and limitations defined in the appropriate standard scenario listed in Appendix 1 or as defined by the LUC;
+
+ii.	follow remote pilot training which shall be competency based and include the competencies set out in paragraph 2 of Article 8:
+
+iii.	follow remote pilot training, as defined in the operational authorisation, for operations requiring such authorisation, it shall be conducted in cooperation with an entity recognised by the competent authority;
+
+iv.	follow remote pilot training for operations under declaration that shall be conducted in accordance with the mitigation measures defined by the standard scenario;
+
+v.	have been informed about the UAS operator's operations manual, if required by the risk assessment and procedures established in accordance with point (a);
+
+vi.	obtain updated information relevant to the intended operation about any geographical zones defined in accordance with Article 15;
+
+(e)	ensure that personnel in charge of duties essential to the UAS operation, other than the remote pilot itself, comply with all of the following conditions:
+
+i.	have completed the on-the-job-training developed by the operator;
+
+ii.	have been informed about the UAS operator's operations manual, if required by the risk assessment, and about the procedures established in accordance with point (a);
+
+iii.	have obtained updated information relevant to the intended operation about any geographical zones defined in accordance with Article 15;
+
+(f)	carry out each operation within the limitations, conditions, and mitigation measures defined in the declaration or specified in the operational authorisation;
+
+(g)	keep a record of the information on UAS operations as required by the declaration or by the operational authorisation;
+
+(h)	use UAS which, as a minimum, are designed in such a manner that a possible failure will not lead the UAS to fly outside the operation volume or to cause a fatality. In addition, Man Machine interfaces shall be such to minimise the risk of pilot error and shall not cause unreasonable fatigue;
+
+(i)	maintain the UAS in a suitable condition for safe operation by:
+
+i.	as a minimum, defining maintenance instructions and employing an adequately trained and qualified maintenance staff; and
+
+ii.	complying with point UAS.SPEC.100, if required;
+
+iii.	using an unmanned aircraft which is designed to minimise noise and other emissions, taking into account the type of the intended operations and geographical areas where the aircraft noise and other emissions are of concern.
+
+UAS.SPEC.060 Responsibilities of the remote pilot
+
+(1)	The remote pilot shall:
+
+(a)	not perform duties under the influence of psychoactive substances or alcohol or when it is unfit to perform its tasks due to injury, fatigue, medication, sickness or other causes;
+
+(b)	have the appropriate remote pilot competency as defined in the operational authorisation, in the standard scenario defined in Appendix 1 or as defined by the LUC and carry a proof of competency while operating the UAS.
+
+(2)	Before starting an UAS operation, the remote pilot shall comply with all of the following:
+
+(a)	obtain updated information relevant to the intended operation about any geographical zones defined in accordance with Article 15;
+
+(b)	ensure that the operating environment is compatible with the authorised or declared limitations and conditions;
+
+(c)	ensure that the UAS is in a safe condition to complete the intended flight safely, and if applicable, check if the direct remote identification works properly;
+
+(d)	ensure that the information about the operation has been made available to the relevant air traffic service (ATS) unit, other airspace users and relevant stakeholders, as required by the operational authorisation or by the conditions published by the Member State for the geographical zone of operation in accordance with Article 15.
+
+(3)	During the flight, the remote pilot shall:
+
+(a)	comply with the authorised or declared limitations and conditions;
+
+(b)	avoid any risk of collision with any manned aircraft and discontinue a flight when continuing it may pose a risk to other aircraft, people, animals, environment or property;
+
+(c)	comply with the operational limitations in geographical zones defined in accordance with Article 15;
+
+(d)	comply with the operator's procedures;
+
+(e)	not fly close to or inside areas where an emergency response effort is ongoing unless they have permission to do so from the responsible emergency response services.
+
+UAS.SPEC.070 Transferability of an operational authorisation
+
+An operational authorisation is not transferable.
+
+UAS.SPEC.080 Duration and validity of an operational authorisation
+
+(1)	The competent authority shall specify the duration of the operational authorisation in the authorisation itself.
+
+(2)	Notwithstanding point (1), the operational authorisation remains valid as long as the UAS operator remains compliant with the relevant requirements of this Regulation and with the conditions defined in the operational authorisation.
+
+(3)	Upon revocation or surrender of the operational authorisation the UAS operator shall provide an acknowledgment in digital format that must be returned to the competent authority without delay.
+
+UAS.SPEC.090 Access
+
+For the purpose of demonstrating compliance with this Regulation, an UAS operator shall grant to any person, that is duly authorised by the competent authority, an access to any facility, UAS, document, records, data, procedures or to any other material relevant to its activity, which is subject to operational authorisation or operational declaration, regardless of whether or not its activity is contracted or subcontracted to another organisation.
+
+UAS.SPEC.100 Use of certified equipment and certified unmanned aircraft
+
+(1)	If the UAS operation is using an unmanned aircraft for which a certificate of airworthiness or a restricted certificate of airworthiness have been issued, or using certified equipment, the UAS operator shall record the operation or service time in accordance either with the instructions and procedures applicable to the certified equipment, or with the organisational approval or authorisation.
+
+(2)	The UAS operator shall follow the instructions referred to in the unmanned aircraft certificate or equipment certificate, and also comply with any airworthiness or operational directives issued by the Agency.
+
+PART C
+
+LIGHT UAS OPERATOR CERTIFICATE (LUC)
+
+UAS.LUC.010 General requirements for an LUC
+
+(1)	A legal person is eligible to apply for an LUC under this Part.
+
+(2)	An application for an LUC or for an amendment to an existing LUC shall be submitted to the competent authority and shall contain all of the following information:
+
+(a)	a description of the UAS operator's management system, including its organisational structure and safety management system;
+
+(b)	the name(s) of the responsible UAS operator's personnel, including the person responsible for authorising operations with UASs;
+
+(c)	a statement that all the documentation submitted to the competent authority has been verified by the applicant and found to comply with the applicable requirements.
+
+(3)	If the requirements of this Part are met, an LUC holder may be granted the privileges, in accordance with point UAS.LUC.060.
+
+UAS.LUC.020 Responsibilities of the LUC holder
+
+The LUC holder shall:
+
+(1)	comply with the requirements of points UAS.SPEC.050 and UAS.SPEC.060;
+
+(2)	comply with the scope and privileges defined in the terms of approval;
+
+(3)	establish and maintain a system for exercising operational control over any operation conducted under the terms of its LUC;
+
+(4)	carry out an operational risk assessment of the intended operation in accordance with Article 11 unless conducting an operation for which an operational declaration is sufficient according to point UAS.SPEC.020,
+
+(5)	keep records of the following items in a manner that ensures protection from damage, alteration and theft for a period at least 3 years for operations conducted using the privileges specified under point UAS.LUC.060:
+
+(a)	the operational risk assessment, when required according to point (4), and its supporting documentation;
+
+(b)	mitigation measures taken; and
+
+(c)	the qualifications and experience of personnel involved in the UAS operation, compliance monitoring and safety management;
+
+(6)	keep personnel records referred to in point (5)(c) as long as the person works for the organisation and shall be retained until 3 years after the person has left the organisation.
+
+UAS.LUC.030 Safety management system
+
+(1)	An UAS operator who applies for an LUC shall establish, implement and maintain a safety management system corresponding to the size of the organisation, to the nature and complexity of its activities, taking into account the hazards and associated risks inherent in these activities.
+
+(2)	The UAS operator shall comply with all of the following:
+
+(a)	nominate an accountable manager with authority for ensuring that within the organisation all activities are performed in accordance with the applicable standards and that the organisation is continuously in compliance with the requirements of the management system and the procedures identified in the LUC manual referred to in point UAS.LUC.040;
+
+(b)	define clear lines of responsibility and accountability throughout the organisation;
+
+(c)	establish and maintain a safety policy and related corresponding safety objectives;
+
+(d)	appoint key safety personnel to execute the safety policy;
+
+(e)	establish and maintain a safety risk management process including the identification of safety hazards associated with the activities of the UAS operator, as well as their evaluation and the management of associated risks, including taking action to mitigate those risks and verify the effectiveness of the action;
+
+(f)	promote safety in the organisation through:
+
+i.	training and education;
+
+ii.	communication;
+
+(g)	document all safety management system key processes for making personnel aware of their responsibilities and of the procedure for amending this documentation; key processes include:
+
+i.	safety reporting and internal investigations;
+
+ii.	operational control;
+
+iii.	communication on safety;
+
+iv.	training and safety promotion;
+
+v.	compliance monitoring;
+
+vi.	safety risk management;
+
+vii.	management of change;
+
+viii.	interface between organisations;
+
+ix.	use of sub-contractors and partners;
+
+(h)	include an independent function to monitor the compliance and adequacy of the fulfilment of the relevant requirements of this Regulation, including a system to provide feedback of findings to the accountable manager to ensure effective implementation of corrective measures as necessary;
+
+(i)	include a function to ensure that safety risks inherent to a service or product delivered through subcontractors are assessed and mitigated under the operator's safety management system.
+
+(3)	If the organisation holds other organisation certificates within the scope of Regulation (EU) No 2018/1139, the safety management system of the UAS operator may be integrated with the safety management system that is required by any of those additional certificate(s).
+
+UAS.LUC.040 LUC manual
+
+(1)	An LUC holder shall provide the competent authority with an LUC manual describing directly or by cross reference its organisation, the relevant procedures and the activities carried out.
+
+(2)	The manual shall contain a statement signed by the accountable manager that confirms that the organisation will at all times work in accordance with this Regulation and with the approved LUC manual. When the accountable Manager is not the Chief Executive Officer of the organisation, the chief executive officer shall countersign the statement.
+
+(3)	If any activity is carried out by partner organisations or subcontractors, the UAS operator shall include in the LUC manual procedures on how the LUC holder shall manage the relationship with those partner organisations or subcontractors.
+
+(4)	The LUC manual shall be amended as necessary to retain an up-to-date description of the LUC holder's organisation, and copies of amendments shall be provided to the competent authority.
+
+(5)	The UAS operator shall distribute the relevant parts of the LUC manual to all its personnel in accordance with their functions and duties.
+
+UAS.LUC.050 Terms of approval of the LUC holder
+
+(1)	The competent authority shall issue an LUC after it is satisfied that the UAS operator complies with points UAS.LUC.020, UAS.LUC.030 and UAS.LUC.040.
+
+(2)	The LUC shall include:
+
+(a)	the UAS operator identification;
+
+(b)	the UAS operator's privileges;
+
+(c)	authorised type(s) of operation;
+
+(d)	the authorised area, zone or class of airspace for operations, if applicable;
+
+(e)	any special limitations or conditions, if applicable;
+
+UAS.LUC.060 Privileges of the LUC holder
+
+When satisfied with the documentation provided, the competent authority shall:
+
+(1)	specify the terms and conditions of the privilege granted to the UAS operator in the LUC; and
+
+(2)	within the terms of approval, grant to an LUC holder the privilege to authorise its own operations without:
+
+(a)	submitting an operational declaration;
+
+(b)	applying for an operational authorisation.
+
+UAS.LUC.070 Changes in the LUC management system
+
+After an LUC is issued, the following changes require prior approval by the competent authority:
+
+(1)	any change in the terms of approval of the UAS operator;
+
+(2)	any significant change to the elements of the LUC holder's safety management system as required by point UAS.LUC.030.
+
+UAS.LUC.075 Transferability of an LUC
+
+Except for the change to the ownership of the organisation, approved by the competent authority in accordance with point UAS.LUC.070, an LUC is not transferable.
+
+UAS.LUC.080 Duration and validity of an LUC
+
+(1)	An LUC shall be issued for an unlimited duration. It shall remain valid subject to:
+
+(a)	the LUC holder's continuous compliance with the relevant requirements of this Regulation and of the Member State that issued the certificate; and
+
+(b)	it not being surrendered or revoked.
+
+(2)	Upon revocation or surrender of an LUC, the LUC holder shall provide an acknowledgment in digital format that must be returned to the competent authority without delay.
+
+UAS.LUC.090 Access
+
+For the purpose of demonstrating compliance with this Regulation, the LUC holder shall grant any person, that is duly authorised by the competent authority, an access to any facility, UAS, document, records, data, procedures or to any other material relevant to its activity, which is subject to certification, operational authorisation or operational declaration, regardless of whether or not its activity is contracted or subcontracted to another organisation.
+
+Appendix 1
+
+for standard scenarios supporting a declaration
